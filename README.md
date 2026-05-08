@@ -2,6 +2,13 @@
 
 App Android que consume una API de Dragon Ball para mostrar personajes, planetas y poderes.
 
+## Capturas
+<div align="center">
+  <img width="33%" src="https://github.com/user-attachments/assets/a38c6e95-797a-4737-8d77-0c77b3a738f9" />
+  <img width="33%" src="https://github.com/user-attachments/assets/a13c3402-1786-4bd2-815f-812f62d7442a" />
+  <img width="33%" src="https://github.com/user-attachments/assets/6324c68d-d40f-409d-a0e3-f6e1d7a28034" />
+</div>
+
 ## Tecnologías
 - Kotlin
 - Retrofit
